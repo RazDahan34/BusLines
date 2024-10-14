@@ -22,3 +22,7 @@ The goal of this system is to improve bus usage efficiency and provide extensive
 ## Target Audience
 
 This system is designed for anyone interested in using public transportation to reach their destination.
+
+## Documentation
+
+For more detailed information, please refer to the Document folder and the document file included within the project folder.
