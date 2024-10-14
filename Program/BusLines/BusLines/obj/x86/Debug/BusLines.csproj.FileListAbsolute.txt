@@ -1,0 +1,257 @@
+C:\Users\משתמש\AppData\Local\Temporary Projects\BusLines\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\משתמש\AppData\Local\Temporary Projects\BusLines\obj\x86\Debug\BusLines.Properties.Resources.resources
+C:\Users\משתמש\AppData\Local\Temporary Projects\BusLines\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\משתמש\AppData\Local\Temporary Projects\BusLines\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\משתמש\AppData\Local\Temporary Projects\BusLines\bin\Debug\BusLines.exe.config
+C:\Users\משתמש\AppData\Local\Temporary Projects\BusLines\bin\Debug\BusLines.exe
+C:\Users\משתמש\AppData\Local\Temporary Projects\BusLines\bin\Debug\BusLines.pdb
+C:\Users\משתמש\AppData\Local\Temporary Projects\BusLines\obj\x86\Debug\BusLines.exe
+C:\Users\משתמש\AppData\Local\Temporary Projects\BusLines\obj\x86\Debug\BusLines.pdb
+C:\Users\משתמש\AppData\Local\Temporary Projects\BusLines\obj\x86\Debug\BusLines.FormLogin.resources
+C:\Users\משתמש\AppData\Local\Temporary Projects\BusLines\obj\x86\Debug\BusLines.FormMenu.resources
+C:\Users\משתמש\AppData\Local\Temporary Projects\BusLines\obj\x86\Debug\BusLines.FormUsers.resources
+C:\Users\משתמש\AppData\Local\Temporary Projects\BusLines\obj\x86\Debug\BusLines.FormSpecialDays.resources
+C:\Users\משתמש\AppData\Local\Temporary Projects\BusLines\obj\x86\Debug\BusLines.FormSpecialStations.resources
+C:\Users\משתמש\AppData\Local\Temporary Projects\BusLines\obj\x86\Debug\BusLines.FormSpecialTypes.resources
+C:\Users\משתמש\AppData\Local\Temporary Projects\BusLines\obj\x86\Debug\BusLines.FormStations.resources
+C:\Users\משתמש\AppData\Local\Temporary Projects\BusLines\obj\x86\Debug\BusLines.FormStationsLine.resources
+C:\Users\משתמש\AppData\Local\Temporary Projects\BusLines\obj\x86\Debug\BusLines.FormTimes.resources
+C:\Users\משתמש\AppData\Local\Temporary Projects\BusLines\obj\x86\Debug\BusLines.FormCities.resources
+C:\Users\משתמש\AppData\Local\Temporary Projects\BusLines\obj\x86\Debug\BusLines.FormCompanies.resources
+C:\Users\משתמש\AppData\Local\Temporary Projects\BusLines\obj\x86\Debug\BusLines.FormLines.resources
+C:\Users\משתמש\AppData\Local\Temporary Projects\BusLines\obj\x86\Debug\BusLines.FormLocations.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\bin\Debug\BusLines.exe.config
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.exe
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.pdb
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\bin\Debug\BusLines.exe
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\bin\Debug\BusLines.pdb
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormCities.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormCompanies.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormLines.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormLocations.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormLogin.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormMenu.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormSpecialDays.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormSpecialStations.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormSpecialTypes.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormStations.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormStationsLine.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormTimes.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUsers.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.Properties.Resources.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddUsers.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddCompanies.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddLocations.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddCities.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddLines.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddStations.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddStationsLine.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddTimes.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddSpecialDays.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddSpecialTypes.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddSpecialStations.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateUsers.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\bin\Debug\BusLines.exe.config
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.exe
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.pdb
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\bin\Debug\BusLines.exe.config
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.exe
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.pdb
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\bin\Debug\BusLines.exe
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\bin\Debug\BusLines.pdb
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddCities.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateCompanies.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddCompanies.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddLines.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddLocations.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddSpecialDays.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddSpecialStations.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddSpecialTypes.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddStations.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddStationsLine.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddTimes.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddUsers.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormCities.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormCompanies.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormLines.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormLocations.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormLogin.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormMenu.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormSpecialDays.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormSpecialStations.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormSpecialTypes.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormStations.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormStationsLine.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormTimes.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateUsers.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUsers.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.Properties.Resources.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.csproj.GenerateResource.Cache
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.csprojResolveAssemblyReference.cache
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateCompanies.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.csproj.GenerateResource.Cache
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateLocations.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateLines.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateStations.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateStationsLine.resources
+C:\Projects_2015\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateSpecialDays.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.csprojResolveAssemblyReference.cache
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateLines.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateLocations.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateSpecialDays.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateStations.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateStationsLine.resources
+C:\Users\משתמש\Desktop\Project_RazDahan (1)\Project_RazDahan\Program\BusLines\BusLines\bin\Debug\BusLines.exe.config
+C:\Users\משתמש\Desktop\Project_RazDahan (1)\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.exe
+C:\Users\משתמש\Desktop\Project_RazDahan (1)\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.pdb
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRptLineStations.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRptStationPictures.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\bin\Debug\BusLines.exe.config
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.exe
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.pdb
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\bin\Debug\BusLines.exe
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\bin\Debug\BusLines.pdb
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.csprojResolveAssemblyReference.cache
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddCities.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRptLineStations.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRptStationPictures.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateLines.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateLocations.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateCompanies.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddCompanies.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddLines.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddLocations.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddSpecialDays.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddSpecialStations.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddSpecialTypes.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddStations.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddStationsLine.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddTimes.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddUsers.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormCities.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormCompanies.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormLines.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormLocations.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormLogin.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormMenu.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormSpecialDays.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormSpecialStations.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormSpecialTypes.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormStations.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormStationsLine.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormTimes.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateSpecialDays.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateStations.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateStationsLine.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateUsers.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUsers.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.Properties.Resources.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.csproj.GenerateResource.Cache
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRptPictureZoom.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRpt_LinesInStation.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRpt_LinesInCity.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRpt_LinesInCompany.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRptWayOneBus.resources
+C:\Projects_2015\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRptWayTwoBus.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRptPictureZoom.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRptWayOneBus.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRptWayTwoBus.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRpt_LinesInCity.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRpt_LinesInCompany.resources
+C:\Users\משתמש\Desktop\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRpt_LinesInStation.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\bin\Debug\BusLines.exe.config
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.exe
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.pdb
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\bin\Debug\BusLines.exe
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\bin\Debug\BusLines.pdb
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.csprojResolveAssemblyReference.cache
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddCities.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRptLineStations.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRptPictureZoom.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRptStationPictures.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRptWayOneBus.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRptWayTwoBus.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRpt_LinesInCity.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRpt_LinesInCompany.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRpt_LinesInStation.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateLines.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateLocations.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateCompanies.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddCompanies.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddLines.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddLocations.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddSpecialDays.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddSpecialStations.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddSpecialTypes.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddStations.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddStationsLine.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddTimes.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddUsers.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormCities.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormCompanies.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormLines.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormLocations.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormLogin.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormMenu.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormSpecialDays.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormSpecialStations.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormSpecialTypes.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormStations.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormStationsLine.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormTimes.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateSpecialDays.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateStations.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateStationsLine.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateUsers.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUsers.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.Properties.Resources.resources
+C:\Users\משתמש\Desktop\Raz\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.csproj.GenerateResource.Cache
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\bin\Debug\BusLines.exe.config
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\bin\Debug\BusLines.exe
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\bin\Debug\BusLines.pdb
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.csproj.AssemblyReference.cache
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddCities.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRptLineStations.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRptPictureZoom.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRptStationPictures.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRptWayOneBus.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRptWayTwoBus.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRpt_LinesInCity.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRpt_LinesInCompany.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormRpt_LinesInStation.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateLines.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateLocations.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateCompanies.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddCompanies.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddLines.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddLocations.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddSpecialDays.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddSpecialStations.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddSpecialTypes.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddStations.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddStationsLine.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddTimes.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormAddUsers.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormCities.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormCompanies.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormLines.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormLocations.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormLogin.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormMenu.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormSpecialDays.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormSpecialStations.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormSpecialTypes.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormStations.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormStationsLine.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormTimes.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateSpecialDays.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateStations.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateStationsLine.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUpdateUsers.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.FormUsers.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.Properties.Resources.resources
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.csproj.GenerateResource.cache
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.csproj.CoreCompileInputs.cache
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.exe
+C:\Users\Asus-pc\Documents\בית ספר\Project_RazDahan\Project_RazDahan\Program\BusLines\BusLines\obj\x86\Debug\BusLines.pdb

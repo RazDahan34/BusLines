@@ -1,0 +1,646 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E21883C0-2B01-40AE-83F0-F9663B26F726}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BusLines</RootNamespace>
+    <AssemblyName>BusLines</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataSetCities.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetCities.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetCompanies.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetCompanies.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetLines.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetLines.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetLocations.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetLocations.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetSpecialDays.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetSpecialDays.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetSpecialStations.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetSpecialStations.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetSpecialTypes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetSpecialTypes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetStations.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetStations.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetStationsLine.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetStationsLine.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetTempLines.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetTempLines.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetTempStations.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetTempStations.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetTimes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetTimes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetUsers.cs">
+      <DependentUpon>DataSetUsers.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetUsers.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetUsers.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddCities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddCities.Designer.cs">
+      <DependentUpon>FormAddCities.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRptLineStations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRptLineStations.designer.cs">
+      <DependentUpon>FormRptLineStations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRptPictureZoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRptPictureZoom.Designer.cs">
+      <DependentUpon>FormRptPictureZoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRptStationPictures.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRptStationPictures.Designer.cs">
+      <DependentUpon>FormRptStationPictures.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRptWayOneBus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRptWayOneBus.Designer.cs">
+      <DependentUpon>FormRptWayOneBus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRptWayTwoBus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRptWayTwoBus.Designer.cs">
+      <DependentUpon>FormRptWayTwoBus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRpt_LinesInCity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRpt_LinesInCity.Designer.cs">
+      <DependentUpon>FormRpt_LinesInCity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRpt_LinesInCompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRpt_LinesInCompany.Designer.cs">
+      <DependentUpon>FormRpt_LinesInCompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRpt_LinesInStation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRpt_LinesInStation.Designer.cs">
+      <DependentUpon>FormRpt_LinesInStation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdateLines.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdateLines.designer.cs">
+      <DependentUpon>FormUpdateLines.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdateLocations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdateLocations.Designer.cs">
+      <DependentUpon>FormUpdateLocations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdateCompanies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdateCompanies.designer.cs">
+      <DependentUpon>FormUpdateCompanies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddCompanies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddCompanies.Designer.cs">
+      <DependentUpon>FormAddCompanies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddLines.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddLines.Designer.cs">
+      <DependentUpon>FormAddLines.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddLocations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddLocations.Designer.cs">
+      <DependentUpon>FormAddLocations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddSpecialDays.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddSpecialDays.Designer.cs">
+      <DependentUpon>FormAddSpecialDays.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddSpecialStations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddSpecialStations.Designer.cs">
+      <DependentUpon>FormAddSpecialStations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddSpecialTypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddSpecialTypes.Designer.cs">
+      <DependentUpon>FormAddSpecialTypes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddStations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddStations.Designer.cs">
+      <DependentUpon>FormAddStations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddStationsLine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddStationsLine.Designer.cs">
+      <DependentUpon>FormAddStationsLine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddTimes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddTimes.Designer.cs">
+      <DependentUpon>FormAddTimes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddUsers.Designer.cs">
+      <DependentUpon>FormAddUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCities.Designer.cs">
+      <DependentUpon>FormCities.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCompanies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCompanies.Designer.cs">
+      <DependentUpon>FormCompanies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLines.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLines.Designer.cs">
+      <DependentUpon>FormLines.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLocations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLocations.Designer.cs">
+      <DependentUpon>FormLocations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenu.Designer.cs">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSpecialDays.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSpecialDays.Designer.cs">
+      <DependentUpon>FormSpecialDays.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSpecialStations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSpecialStations.Designer.cs">
+      <DependentUpon>FormSpecialStations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSpecialTypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSpecialTypes.Designer.cs">
+      <DependentUpon>FormSpecialTypes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStations.Designer.cs">
+      <DependentUpon>FormStations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStationsLine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStationsLine.Designer.cs">
+      <DependentUpon>FormStationsLine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTimes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTimes.Designer.cs">
+      <DependentUpon>FormTimes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdateSpecialDays.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdateSpecialDays.designer.cs">
+      <DependentUpon>FormUpdateSpecialDays.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdateStations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdateStations.designer.cs">
+      <DependentUpon>FormUpdateStations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdateStationsLine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdateStationsLine.designer.cs">
+      <DependentUpon>FormUpdateStationsLine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdateUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdateUsers.Designer.cs">
+      <DependentUpon>FormUpdateUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUsers.Designer.cs">
+      <DependentUpon>FormUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Station.cs" />
+    <EmbeddedResource Include="FormAddCities.resx">
+      <DependentUpon>FormAddCities.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRptLineStations.resx">
+      <DependentUpon>FormRptLineStations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRptPictureZoom.resx">
+      <DependentUpon>FormRptPictureZoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRptStationPictures.resx">
+      <DependentUpon>FormRptStationPictures.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRptWayOneBus.resx">
+      <DependentUpon>FormRptWayOneBus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRptWayTwoBus.resx">
+      <DependentUpon>FormRptWayTwoBus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRpt_LinesInCity.resx">
+      <DependentUpon>FormRpt_LinesInCity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRpt_LinesInCompany.resx">
+      <DependentUpon>FormRpt_LinesInCompany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRpt_LinesInStation.resx">
+      <DependentUpon>FormRpt_LinesInStation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdateLines.resx">
+      <DependentUpon>FormUpdateLines.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdateLocations.resx">
+      <DependentUpon>FormUpdateLocations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdateCompanies.resx">
+      <DependentUpon>FormUpdateCompanies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddCompanies.resx">
+      <DependentUpon>FormAddCompanies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddLines.resx">
+      <DependentUpon>FormAddLines.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddLocations.resx">
+      <DependentUpon>FormAddLocations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddSpecialDays.resx">
+      <DependentUpon>FormAddSpecialDays.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddSpecialStations.resx">
+      <DependentUpon>FormAddSpecialStations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddSpecialTypes.resx">
+      <DependentUpon>FormAddSpecialTypes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddStations.resx">
+      <DependentUpon>FormAddStations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddStationsLine.resx">
+      <DependentUpon>FormAddStationsLine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddTimes.resx">
+      <DependentUpon>FormAddTimes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddUsers.resx">
+      <DependentUpon>FormAddUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCities.resx">
+      <DependentUpon>FormCities.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCompanies.resx">
+      <DependentUpon>FormCompanies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLines.resx">
+      <DependentUpon>FormLines.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLocations.resx">
+      <DependentUpon>FormLocations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenu.resx">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSpecialDays.resx">
+      <DependentUpon>FormSpecialDays.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSpecialStations.resx">
+      <DependentUpon>FormSpecialStations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSpecialTypes.resx">
+      <DependentUpon>FormSpecialTypes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStations.resx">
+      <DependentUpon>FormStations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStationsLine.resx">
+      <DependentUpon>FormStationsLine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTimes.resx">
+      <DependentUpon>FormTimes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdateSpecialDays.resx">
+      <DependentUpon>FormUpdateSpecialDays.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdateStations.resx">
+      <DependentUpon>FormUpdateStations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdateStationsLine.resx">
+      <DependentUpon>FormUpdateStationsLine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdateUsers.resx">
+      <DependentUpon>FormUpdateUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUsers.resx">
+      <DependentUpon>FormUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="DataSetCities.xsc">
+      <DependentUpon>DataSetCities.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetCities.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetCities.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetCities.xss">
+      <DependentUpon>DataSetCities.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetCompanies.xsc">
+      <DependentUpon>DataSetCompanies.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetCompanies.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetCompanies.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetCompanies.xss">
+      <DependentUpon>DataSetCompanies.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetLines.xsc">
+      <DependentUpon>DataSetLines.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetLines.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetLines.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetLines.xss">
+      <DependentUpon>DataSetLines.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetLocations.xsc">
+      <DependentUpon>DataSetLocations.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetLocations.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetLocations.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetLocations.xss">
+      <DependentUpon>DataSetLocations.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetSpecialDays.xsc">
+      <DependentUpon>DataSetSpecialDays.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetSpecialDays.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetSpecialDays.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetSpecialDays.xss">
+      <DependentUpon>DataSetSpecialDays.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetSpecialStations.xsc">
+      <DependentUpon>DataSetSpecialStations.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetSpecialStations.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetSpecialStations.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetSpecialStations.xss">
+      <DependentUpon>DataSetSpecialStations.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetSpecialTypes.xsc">
+      <DependentUpon>DataSetSpecialTypes.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetSpecialTypes.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetSpecialTypes.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetSpecialTypes.xss">
+      <DependentUpon>DataSetSpecialTypes.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetStations.xsc">
+      <DependentUpon>DataSetStations.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetStations.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetStations.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetStations.xss">
+      <DependentUpon>DataSetStations.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetStationsLine.xsc">
+      <DependentUpon>DataSetStationsLine.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetStationsLine.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetStationsLine.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetStationsLine.xss">
+      <DependentUpon>DataSetStationsLine.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetTempLines.xsc">
+      <DependentUpon>DataSetTempLines.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetTempLines.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetTempLines.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetTempLines.xss">
+      <DependentUpon>DataSetTempLines.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetTempStations.xsc">
+      <DependentUpon>DataSetTempStations.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetTempStations.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetTempStations.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetTempStations.xss">
+      <DependentUpon>DataSetTempStations.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetTimes.xsc">
+      <DependentUpon>DataSetTimes.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetTimes.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetTimes.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetTimes.xss">
+      <DependentUpon>DataSetTimes.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetUsers.xsc">
+      <DependentUpon>DataSetUsers.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetUsers.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetUsers.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetUsers.xss">
+      <DependentUpon>DataSetUsers.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
